@@ -4,7 +4,7 @@ A research study of the Poisson distribution from theoretical and computational 
 
 **Author:** Fatima Emad · **Date:** July 16, 2025
 
-**Read the paper:** [The Poisson Distribution: A Comprehensive Examination](paper/The_Poisson_Distribution_Corrected.pdf)
+**Read the paper:** [The Poisson Distribution: A Comprehensive Examination](paper/The_Poisson_Distribution.pdf)
 
 ## Contents
 - `paper/` – the full paper and a standalone proofs document (PDF)
